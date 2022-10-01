@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+cargo bootimage build --target x86_64-Swastix.json -Zbuild-std=core
